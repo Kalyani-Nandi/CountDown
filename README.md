@@ -1,2 +1,2 @@
 # CountDown
-Html, CSS, JavaScript
+Html, CSS
